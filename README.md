@@ -4,7 +4,8 @@
 
 A development environment for:
 
-    Vehicle capable of autonomous navigation to a location while capturing 3d sensor and imaging data at predefined locations, times, or events.
+    Vehicle capable of autonomous navigation to a location while capturing 
+    3d sensor and imaging data at predefined locations, times, or events.
 
     Workflow to import that data and imagery into ESRI CityEngine.
 
