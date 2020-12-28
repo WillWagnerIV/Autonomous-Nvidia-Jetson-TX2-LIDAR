@@ -1,10 +1,12 @@
 # Autonomous SLAM Robot
 
-Nvidia Jetson Based Hardware Solution
-Python, C++ Language Based
-TensorFlow, CUDA Primary AI
+Hardware Solution based on Nvidia Jetson Tx2 
 
-End of Semester Summary Report
+Python, C++ Language Based
+
+TensorFlow, CUDA for Primary AI and Visual processing
+
+
 
 [End of Semester Summary Report](https://github.com/WillWagnerIV/Autonomous-Nvidia-Jetson-TX2-LIDAR/blob/master/Agile%20Documents/TX2%20Project%20Report.pdf)
 
@@ -15,4 +17,4 @@ A development environment for:
 
 
 
-Current Development Happening in the GIS Lab at Claremont Graduate University.
+Current Development Happening in the [GIS Lab](https://www.cgu.edu/center/advanced-gis-lab/) at Claremont Graduate University.
